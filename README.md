@@ -116,15 +116,16 @@ Sales-Analysis-PowerBI/
 └── README.md
 ```
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Mahmoud Nader
+**Mahmoud Nader**
 
 Computer Science Graduate | Junior Data Analyst
 
-GitHub: MahmoudNader1
+- GitHub: [Mahmoud Nader](https://github.com/MahmoudNader1)
+- LinkedIn: [Mahmoud Nader](https://www.linkedin.com/in/mahmoud-nader-810291405/)
 
-LinkedIn: Mahmoud Nader
+---
 
 <p align="center">
   ⭐ If you find this project useful, feel free to explore the repository!
