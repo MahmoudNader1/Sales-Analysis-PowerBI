@@ -12,6 +12,7 @@ This project focuses on analyzing sales data and building an interactive Power B
 - Microsoft Excel
 
 ## 📂 Dataset Description
+
 The project uses six datasets:
 
 | Dataset | Description |
@@ -44,39 +45,4 @@ The project uses six datasets:
 ## 💡 Key Business Insights
 - Identified the highest-performing stock item by sales.
 - December 2025 recorded the highest monthly sales, reaching approximately 602,496.
-- Identified the most profitable stock item: 20mm Double Sided Bubblewrap 50m.
-- Analyzed monthly profit trends to evaluate business performance.
-
-## 📁 Project Structure
-```text
-Sales-Analysis-PowerBI/
-│
-├── Dataset/
-│   ├── DimCity.csv
-│   ├── DimCustomer.csv
-│   ├── DimDate.csv
-│   ├── DimEmployee.xlsx
-│   ├── DimStockItem.csv
-│   └── FactSale.csv
-│
-├── Dashboard/
-│   └── Sales-Analysis.pbix
-│
-├── Screenshots/
-│
-└── README.md
-```
-
-## 🎯 Project Objectives
-- Develop practical Power BI skills.
-- Transform raw data into meaningful business insights.
-- Build interactive dashboards for business reporting.
-- Apply data modeling and analytical techniques.
-
-## 👨‍💻 Author
-**Mahmoud Nader**
-
-Computer Science Graduate | Junior Data Analyst
-
-- [GitHub](https://github.com/MahmoudNader1)
-- [LinkedIn](https://linkedin.com/in/mahmoud-nader-810291405)
+- Identified the most profitable stock
